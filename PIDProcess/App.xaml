@@ -1,0 +1,10 @@
+<Application x:Class="PIDProcess.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PIDProcess"
+             xmlns:converters="clr-namespace:PIDProcess.Converters"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <converters:BooleanToOppositeConverter x:Key="BooleanToOppositeConverter" />
+    </Application.Resources>
+</Application>

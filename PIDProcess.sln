@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIDProcess", "PIDProcess\PIDProcess.csproj", "{9C102755-BF3B-47C0-95E6-C35493A7F44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C102755-BF3B-47C0-95E6-C35493A7F44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C102755-BF3B-47C0-95E6-C35493A7F44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C102755-BF3B-47C0-95E6-C35493A7F44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C102755-BF3B-47C0-95E6-C35493A7F44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
